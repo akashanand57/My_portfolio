@@ -1,26 +1,23 @@
 [
     {
-      "title": "Project A",
-      "imageSrc": "projects/project.png",
+      "title": "E-Book",
+      "imageSrc": "projects/ebook.png",
       "description": "",
       "skills": ["Java", "JavaScript", "React", "SQL"],
-      "demo": "https://www.example.com",
-      "source": "https://www.github.com"
+      "source": "https://github.com/akashanand57"
     },
     {
-      "title": "Project B",
-      "imageSrc": "projects/project.png",
+      "title": "Front Desk",
+      "imageSrc": "projects/frontdesk.png",
       "description": "",
       "skills": ["Java", "JavaScript", "React", "SQL"],
-      "demo": "https://www.example.com",
-      "source": "https://www.github.com"
+      "source": "https://github.com/akashanand57"
     },
     {
-      "title": "Project C",
-      "imageSrc": "projects/project.png",
+      "title": "Portfolio",
+      "imageSrc": "projects/p.png",
       "description": "",
-      "skills": ["Java", "JavaScript", "React", "SQL"],
-      "demo": "https://www.example.com",
-      "source": "https://www.github.com"
+      "skills": ["HTML", "CSS", "JavaScript", "React"],
+      "source": "https://github.com/akashanand57"
     }
   ]
